@@ -1,4 +1,4 @@
-Welcome to the Sales Insight Dashboard, a comprehensive and interactive Tableau dashboard designed to provide a clear and detailed analysis of sales performance across various dimensions. This dashboard is created to help sales teams, managers, and stakeholders gain actionable insights into sales data, identify trends, and make informed decisions to drive business growth
+Welcome to the Sales Insight Dashboard, a comprehensive and interactive Tableau dashboard designed to provide a clear and detailed analysis of sales performance across various dimensions. This dashboard is created to help sales teams, managers, and stakeholders gain actionable insights into sales data, identify trends, and make informed decisions to drive business growth.
 </b><h2>Key Features</h2></b>
 <b>Sales Overview:</b>A high-level summary of total sales, including metrics such as total sales, total profit, customers data, total quantity of products, and total orders.
 
@@ -13,7 +13,7 @@ Welcome to the Sales Insight Dashboard, a comprehensive and interactive Tableau 
 <b>KPIs and Metrics:</b> Key performance indicators (KPIs) and other critical metrics displayed for quick reference.
 
 <h2>Using the Dashboards</h2>
-So we have created two dashboards, First is Sales Dashboard and the second one is Customer Dashboard.
+So I have created two dashboards, First is Sales Dashboard and the second one is Customer Dashboard.
 <h2>Sales Dashboard</h2>
 <img src="https://github.com/Ritika-Saini28/Tableau_Project/blob/main/Screenshot%202024-05-26%20010952.png">
 <h2>Customer Dashboard</h2>
@@ -37,4 +37,14 @@ Filters
 <img height="500px" src="https://github.com/Ritika-Saini28/Tableau_Project/blob/main/Screenshot%202024-05-26%20012008.png">
 
 <b>Buttons:</b> You have two diiferent icons on top as buttons which will help you in navigating between two dashboards.
-<img src="">
+
+<img src="https://github.com/Ritika-Saini28/Tableau_Project/blob/main/Screenshot%202024-05-26%20012921.png">
+
+<h2>Interactivity</h2>
+<b>Hover:</b> Hover over charts and graphs to see detailed information and tooltips.<br>
+<b>Click:</b> Click on elements within charts to highlight and isolate specific data points.<br>
+<b>Drill-Down:</b> Use drill-down features to explore data at a more granular level.<br>
+
+<h2>Conclusion</h2>
+The Sales Insight Dashboard is a powerful tool to enhance your sales analytics and decision-making process. By leveraging this dashboard, you can gain valuable insights, identify opportunities for improvement, and drive your sales strategy effectively.
+
