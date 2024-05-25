@@ -1,4 +1,4 @@
-Welcome to the Sales Insight Dashboard, a comprehensive Tableau dashboard designed to provide a clear and detailed analysis of sales performance across various dimensions. This dashboard is created to help sales teams, managers, and stakeholders gain actionable insights into sales data, identify trends, and make informed decisions to drive business growth
+Welcome to the Sales Insight Dashboard, a comprehensive and interactive Tableau dashboard designed to provide a clear and detailed analysis of sales performance across various dimensions. This dashboard is created to help sales teams, managers, and stakeholders gain actionable insights into sales data, identify trends, and make informed decisions to drive business growth
 </b><h2>Key Features</h2></b>
 <b>Sales Overview:</b>A high-level summary of total sales, including metrics such as total sales, total profit, customers data, total quantity of products, and total orders.
 
@@ -17,8 +17,9 @@ So we have created two dashboards, First is Sales Dashboard and the second one i
 <h2>Sales Dashboard</h2>
 <img src="https://github.com/Ritika-Saini28/Tableau_Project/blob/main/Screenshot%202024-05-26%20010952.png">
 <h2>Customer Dashboard</h2>
+<img src="https://github.com/Ritika-Saini28/Tableau_Project/blob/main/Screenshot%202024-05-26%20011532.png">
+<h2>Navigation</h2>
+<b>Home</b>: The landing page providing a snapshot of overall sales performance.
+<b>Filters:</b> Use the filters available on the right corner of dashboard to drill down into specific year, region, city, state, and category and subcategory of products.
 <img src="
-Navigation
-Home: The landing page providing a snapshot of overall sales performance.
-Filters: Use the filters available on the right side of each page to drill down into specific regions, products, time periods, and customer segments.
 Tabs: Navigate through different tabs at the top to access specific sections of the dashboard such as Sales by Region, Product Performance, etc.
