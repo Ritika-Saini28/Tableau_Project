@@ -20,6 +20,21 @@ So we have created two dashboards, First is Sales Dashboard and the second one i
 <img src="https://github.com/Ritika-Saini28/Tableau_Project/blob/main/Screenshot%202024-05-26%20011532.png">
 <h2>Navigation</h2>
 <b>Home</b>: The landing page providing a snapshot of overall sales performance.
+
 <b>Filters:</b> Use the filters available on the right corner of dashboard to drill down into specific year, region, city, state, and category and subcategory of products.
-<img src="
-Tabs: Navigate through different tabs at the top to access specific sections of the dashboard such as Sales by Region, Product Performance, etc.
+
+
+You can use this icon to show filters.
+
+
+<img src="https://github.com/Ritika-Saini28/Tableau_Project/blob/main/Screenshot%202024-05-26%20012017.png">
+
+
+
+
+Filters
+
+<img height="500px" src="https://github.com/Ritika-Saini28/Tableau_Project/blob/main/Screenshot%202024-05-26%20012008.png">
+
+<b>Buttons:</b> You have two diiferent icons on top as buttons which will help you in navigating between two dashboards.
+<img src="">
