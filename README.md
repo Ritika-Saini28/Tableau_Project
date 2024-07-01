@@ -1,3 +1,5 @@
+<h3 align="center"><b>Sales Insight</b></h3>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 Welcome to the Sales Insight Dashboard, a comprehensive and interactive Tableau dashboard designed to provide a clear and detailed analysis of sales performance across various dimensions. This dashboard is created to help sales teams, managers, and stakeholders gain actionable insights into sales data, identify trends, and make informed decisions to drive business growth.<br>
 Here's the link of my tableau workbook: "https://public.tableau.com/app/profile/ritika.saini3289"
 </b><h2>Key Features</h2></b>
